@@ -1,0 +1,36 @@
+1927.kiev.ua,3dtoday.ru,5.ua,allboxing.ru,amic.ru,aratta-ukraine.com,asiaplustj.info,astrovedus.com,belaruspartisan.org,bigmir.net,bilshe.com,book-neva.narod.ru,brovary.net.ua,comments.ua,dt.ua,dv-gazeta.info,e-reading.club,echo.msk.ru,ecology.md,enovosty.com,fedpress.ru,football.by,from-ua.com,galinfo.com.ua,galka.if.ua,hdkinoteatr.com,hronika.info,i-news.kz,ictv.ua,infomir59.ru,inforesist.org,izmacity.com,kiev24.ua,korrespondent.net,kurufin.ru,liga.net,mskd-ru.net,napensii.ua,neizvestniy-geniy.ru,news-front.info,newsoneua.tv,newspravda.com,nibler.ru,niknews.mk.ua,noi.md,nwcod.com,petrogazeta.ru,planetanovosti.com,prostotech.com,qiqru.org,qrz.ru,railway.kanaries.ru,real-vin.com,rusdozor.ru,rusjev.net,segodnya.ua,shans.com.ua,smolensk-i.ru,sportfm.ru,subject.com.ua,tambovnet.org,tehnowar.ru,ternopillive.com.ua,theuk.one,tochka.net,topgir.com.ua,tyurem.net,uainfo.org,ucrazy.ru,unn.com.ua,vd-tv.ru,vedomosti-ural.ru,volynnews.com,wpristav.ru,xsport.ua,yvision.kz,zakon.kz,zn.ua,znaj.ua##[id^="n4p_"]
+echo.msk.ru##.grf-widget__logo
+echo.msk.ru,sports.ru,tribuna.com##[id*="ScriptRoot"]
+echo.msk.ru,ria.ru##div[id^="adfox_"]
+echo.msk.ru##div[id^="div-gpt-ad-"]
+echo.msk.ru##div[id^="smi_teaser_"]
+/^https?://echo\.msk\.ru/[^\s]{500,}/$xmlhttprequest,domain=echo.msk.ru
+/^https?://echomsk\.static-storage\.net/[^\s]{500,}/$script,domain=echo.msk.ru
+||ads.echo.msk.ru/
+||criteo.^$domain=echo.msk.ru
+||giraff.io^$script,domain=echo.msk.ru|mk.ru
+||googletagmanager.com/gtm.js?$domain=echo.msk.ru|izvestia.ru
+||matchid.adfox.yandex.ru^$domain=auto.ru|avtovzglyad.ru|drive2.ru|echo.msk.ru|ficbook.net|goha.ru|liveinternet.ru|www.kinopoisk.ru
+||naydex.net^$domain=actualnews.org|astera.ru|dni24.com|echo.msk.ru|eva.ru|fontanka.ru|oane.ws|pcpro100.info|publy.ru
+echo.msk.ru###comments-ad
+echo.msk.ru###sound_ad
+echo.msk.ru##.ad-silverrain
+echo.msk.ru##.bannerBlock
+echo.msk.ru##aside > div[class^="ad iblock"] ~ br
+echo.msk.ru##aside > div[class^="ad iblock"]:nth-of-type(-n+7)
+echo.msk.ru##div[class][style^="overflow: visible"]
+echo.msk.ru##div[class^="ad iblock"][id]
+echo.msk.ru##div[style^="padding:"][style*=" 0px 0px;"]
+echo.msk.ru##[class$="-svoboda"]
+echo.msk.ru##[data-container]
+echo.msk.ru##[data-relap-id]
+echo.msk.ru##[role]:not([id]) > div[class] > [class*=" "] > [id]
+echo.msk.ru##[role]:not([id]) > div[class] > [class*=" "] > div:nth-of-type(-n+7)
+echo.msk.ru#?#div:-abp-has(> [id*="svoboda"])
+echo.msk.ru##div[class][id] ~ span > br
+echo.msk.ru##div[style*="!important; "][style$=" !important;"]
+echo.msk.ru##div[style="width:236px;height:100px;"][id]
+echo.msk.ru##iframe[src*="echomsk.static-storage.net"]
+echo.msk.ru##span > script:first-child + section
+echo.msk.ru#?#span:-abp-contains(/новости партнеров/i)
+@@||echo.msk.ru^$generichide
