@@ -1,3 +1,19 @@
+[Adblock Plus 3.1]
+! Checksum: Oat/a5wZGoiplRrOkJBV/A
+! Version: 202110041520
+! Title: echomsk
+! Last modified: 04 Oct 2021 15:20 UTC
+! Expires: 1 hours (update frequency)
+! Homepage: https://github.com/abp-filters/abp-filters-anti-cv
+!
+! Filter list designed to fight circumvention ads (including, in some cases, their tracking) and fix critical issues for Adblock Plus users
+!
+! Please report any issues
+! on GitHub https://github.com/abp-filters/abp-filters-anti-cv/issues
+! or via filters+cv@adblockplus.org
+! 
+! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/arabic.txt ***
+! MISC
 1927.kiev.ua,3dtoday.ru,5.ua,allboxing.ru,amic.ru,aratta-ukraine.com,asiaplustj.info,astrovedus.com,belaruspartisan.org,bigmir.net,bilshe.com,book-neva.narod.ru,brovary.net.ua,comments.ua,dt.ua,dv-gazeta.info,e-reading.club,echo.msk.ru,ecology.md,enovosty.com,fedpress.ru,football.by,from-ua.com,galinfo.com.ua,galka.if.ua,hdkinoteatr.com,hronika.info,i-news.kz,ictv.ua,infomir59.ru,inforesist.org,izmacity.com,kiev24.ua,korrespondent.net,kurufin.ru,liga.net,mskd-ru.net,napensii.ua,neizvestniy-geniy.ru,news-front.info,newsoneua.tv,newspravda.com,nibler.ru,niknews.mk.ua,noi.md,nwcod.com,petrogazeta.ru,planetanovosti.com,prostotech.com,qiqru.org,qrz.ru,railway.kanaries.ru,real-vin.com,rusdozor.ru,rusjev.net,segodnya.ua,shans.com.ua,smolensk-i.ru,sportfm.ru,subject.com.ua,tambovnet.org,tehnowar.ru,ternopillive.com.ua,theuk.one,tochka.net,topgir.com.ua,tyurem.net,uainfo.org,ucrazy.ru,unn.com.ua,vd-tv.ru,vedomosti-ural.ru,volynnews.com,wpristav.ru,xsport.ua,yvision.kz,zakon.kz,zn.ua,znaj.ua##[id^="n4p_"]
 echo.msk.ru##.grf-widget__logo
 echo.msk.ru,sports.ru,tribuna.com##[id*="ScriptRoot"]
